@@ -4,7 +4,7 @@ sushi-approvals-after-hack
 
 ## Set Up
  ```
- nmp install
+ npm install
  ```
  
  set wallets to file addresses.json like
